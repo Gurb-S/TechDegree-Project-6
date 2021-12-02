@@ -7,4 +7,5 @@ email address. The password has to be 3 numbers followed by 3 letters and a spec
 Example:
 
 Email: treehouse@gmail.com
-password: 123abc$
+
+Password: 123abc$
