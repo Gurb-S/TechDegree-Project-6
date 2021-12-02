@@ -4,8 +4,20 @@ This project displays an array of objects of random users. The info displyed inc
 first and last name, email address, and date joined. It also has the functionality to search users by name.
 To access the directory of users you must enter a email and password. The email can be anything as long it is a valid 
 email address. The password has to be 3 numbers followed by 3 letters and a special symbol. 
-Example:
+
+EXAMPLE:
 
 Email: treehouse@gmail.com
 
 Password: 123abc$
+
+
+FUTURE PLANS:
+
+The hope is that version 2 will include:
+
+1) the option to filter with date joined
+
+LONG TERM PLANS:
+
+1) left clicking on user's profile picture expands user info and gives even more info about user
