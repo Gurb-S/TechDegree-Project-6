@@ -717,22 +717,5 @@ const data = [
       medium: "https://randomuser.me/api/portraits/med/men/48.jpg",
       thumbnail: "https://randomuser.me/api/portraits/thumb/men/48.jpg",
     },
-  },
-  {
-    name: {
-      title: "Mr",
-      first: "Danny",
-      last: "Calderon",
-    },
-    email: "danielcalderon@gmail.com",
-    registered: {
-      date: "08-14-2010",
-      age: 10,
-    },
-    picture: {
-      large: "https://randomuser.me/api/portraits/men/48.jpg",
-      medium: "https://randomuser.me/api/portraits/med/men/48.jpg",
-      thumbnail: "https://www.realclearlife.com/wp-content/uploads/2017/06/vision_soccer_060917.jpg",
-    },
-  },
+  }
 ];
